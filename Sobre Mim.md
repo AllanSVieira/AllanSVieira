@@ -34,7 +34,6 @@ Profissional certificado em metodologias ágeis (Scrum, Yellow Belt, White Belt)
 ### 📊 Business Intelligence & Analytics
 - **Power BI** — Modelagem de dados, DAX avançado, dashboards interativos
 - **Tableau** — Visualizações exploratórias, dashboards executivos
-- **Data Warehousing** — Design, implementação, otimização de DW
 - **Excel Avançado** — Power Query, Power Pivot, VBA
 
 ### 🗄️ Banco de Dados
@@ -49,23 +48,23 @@ Profissional certificado em metodologias ágeis (Scrum, Yellow Belt, White Belt)
 ### ☁️ Ferramentas Microsoft
 - **Power BI** — Desktop, Service, Premium
 - **Excel** — Formulas avançadas, VBA, Power Query
-- **Azure** — SQL Database, Data Factory, Synapse Analytics
 - **SQL Server Management Studio** — Administração e desenvolvimento
 
 ### 🔧 Ferramentas Adicionais
-- **Git** — Controle de versão
 - **VS Code / PyCharm** — Desenvolvimento
-- **Jupyter Notebooks** — Análise exploratória
-- **Jira / Azure DevOps** — Gerenciamento
 
 ---
 
 ## 🎓 Certificações & Formação
+- **Tecnólogo em Logística** — Graduação tecnológica em gestão logística e operações
+- **Pós-Graduação em Business Intelligence** — Especialização em análise de dados e inteligência de negócios
+- **MBA em Logística Empresarial e Supply Chain** — Gestão estratégica da cadeia de suprimentos
 
 ### Metodologias Ágeis
 - **Scrum Fundamentals** — Certificação completa em framework Scrum
 - **Yellow Belt (Lean Six Sigma)** — Certificação em otimização de processos
 - **White Belt (Lean Six Sigma)** — Introdução à melhoria contínua
+
 
 ### Business Intelligence & Dados
 - **Power BI Masterclass** — Modelagem avançada, DAX, Power Query
