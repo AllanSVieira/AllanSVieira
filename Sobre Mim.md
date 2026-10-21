@@ -1,4 +1,4 @@
-                      # Allan S Vieira | BI Analyst Pleno
+# Allan S Vieira | BI Analyst Pleno
 
 <div align="center">
 
