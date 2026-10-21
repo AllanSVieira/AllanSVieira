@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**SQL Server • Power BI • Tableau • Python • Azure**
+**SQL Server • Power BI • Tableau • Python • Power Apps**
 
 Transformando dados em insights estratégicos | Data Warehouse Architecture | ETL Automation  
 Certificado em Scrum • Yellow Belt • White Belt
