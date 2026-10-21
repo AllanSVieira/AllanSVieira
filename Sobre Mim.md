@@ -66,7 +66,7 @@ Profissional certificado em metodologias ágeis (Scrum, Yellow Belt, White Belt)
 
 
 ### Business Intelligence & Dados
-- **Power BI Masterclass** — Modelagem avançada, DAX, Power Query
+- **Power BI** — Modelagem avançada, DAX, Power Query
 - **SQL Advanced** — Performance tuning, índices, query optimization
 - **Tableau Essentials** — Visualização de dados e dashboards estratégicos
 - **Python for Data Science** — Pandas, análise exploratória, automação
