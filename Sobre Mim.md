@@ -49,10 +49,6 @@ Profissional certificado em metodologias ágeis (Scrum, Yellow Belt, White Belt)
 - **Excel** — Formulas avançadas, VBA, Power Query
 - **SQL Server Management Studio** — Administração e desenvolvimento
 
-### 🔧 Ferramentas Adicionais
-- **VS Code / PyCharm** — Desenvolvimento
-
----
 
 ## 🎓 Certificações & Formação
 - **Tecnólogo em Logística** — Graduação tecnológica em gestão logística e operações
