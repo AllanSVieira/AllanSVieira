@@ -38,7 +38,6 @@ Profissional certificado em metodologias ágeis (Scrum, Yellow Belt, White Belt)
 
 ### 🗄️ Banco de Dados
 - **SQL Server** — T-SQL, stored procedures, índices, query optimization
-- **PostgreSQL** — Queries complexas, window functions, performance tuning
 - **Modelagem de Dados** — Relacionais, dimensionais (Kimball)
 
 ### 🐍 Programação & Automação
